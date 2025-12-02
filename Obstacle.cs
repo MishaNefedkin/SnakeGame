@@ -1,6 +1,6 @@
 namespace SnakeGame;
 
-public class Obstakel
+public class Obstacle
 
 {
 
