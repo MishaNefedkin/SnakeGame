@@ -23,7 +23,7 @@ class Program
 
         Random randomnummer = new Random();
 
-        pixel hoofd = new pixel();
+        Pixel hoofd = new Pixel();
 
         hoofd.xpos = screenwidth / 2;
 
