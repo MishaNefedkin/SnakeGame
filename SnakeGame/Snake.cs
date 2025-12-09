@@ -25,11 +25,11 @@ class Program
 
         Pixel hoofd = new Pixel();
 
-        hoofd.xpos = screenwidth / 2;
+        hoofd.xPos = screenwidth / 2;
 
-        hoofd.ypos = screenheight / 2;
+        hoofd.yPos= screenheight / 2;
 
-        hoofd.schermkleur = ConsoleColor.Red;
+        hoofd.schermKleur = ConsoleColor.Red;
 
         string movement = "RIGHT";
 
