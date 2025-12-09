@@ -10,6 +10,6 @@ public class Obstakel
 
     public ConsoleColor schermKleur { get; set; }
 
-    public string karacter { get; set; }
+    public string karacter { get; set; } = " ";
 
 }
